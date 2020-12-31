@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "E:\\ABCTest\\abctask\\ABCTask.csproj": {}
+    "E:\\ABCTest\\ABCTask\\ABCTask.csproj": {}
   },
   "projects": {
     "E:\\ABCTest\\ABCTask.Core\\ABCTask.Core.csproj": {
@@ -75,6 +75,9 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
@@ -176,6 +179,9 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
@@ -259,6 +265,9 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
@@ -345,6 +354,9 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
@@ -353,14 +365,14 @@
         }
       }
     },
-    "E:\\ABCTest\\abctask\\ABCTask.csproj": {
+    "E:\\ABCTest\\ABCTask\\ABCTask.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\ABCTest\\abctask\\ABCTask.csproj",
+        "projectUniqueName": "E:\\ABCTest\\ABCTask\\ABCTask.csproj",
         "projectName": "ABCTask",
-        "projectPath": "E:\\ABCTest\\abctask\\ABCTask.csproj",
+        "projectPath": "E:\\ABCTest\\ABCTask\\ABCTask.csproj",
         "packagesPath": "C:\\Users\\Ideal\\.nuget\\packages\\",
-        "outputPath": "E:\\ABCTest\\abctask\\obj\\",
+        "outputPath": "E:\\ABCTest\\ABCTask\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

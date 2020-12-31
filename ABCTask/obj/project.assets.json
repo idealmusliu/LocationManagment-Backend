@@ -3251,7 +3251,10 @@
         },
         "runtime": {
           "bin/placeholder/ABCTask.Core.dll": {}
-        }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       },
       "ABCTask.Data/1.0.0": {
         "type": "project",
@@ -3272,7 +3275,10 @@
         },
         "runtime": {
           "bin/placeholder/ABCTask.Data.dll": {}
-        }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       },
       "ABCTask.DTO/1.0.0": {
         "type": "project",
@@ -3290,7 +3296,10 @@
         },
         "runtime": {
           "bin/placeholder/ABCTask.DTO.dll": {}
-        }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       },
       "ABCTask.Services/1.0.0": {
         "type": "project",
@@ -3309,7 +3318,10 @@
         },
         "runtime": {
           "bin/placeholder/ABCTask.Services.dll": {}
-        }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       }
     }
   },
@@ -9997,11 +10009,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\ABCTest\\abctask\\ABCTask.csproj",
+      "projectUniqueName": "E:\\ABCTest\\ABCTask\\ABCTask.csproj",
       "projectName": "ABCTask",
-      "projectPath": "E:\\ABCTest\\abctask\\ABCTask.csproj",
+      "projectPath": "E:\\ABCTest\\ABCTask\\ABCTask.csproj",
       "packagesPath": "C:\\Users\\Ideal\\.nuget\\packages\\",
-      "outputPath": "E:\\ABCTest\\abctask\\obj\\",
+      "outputPath": "E:\\ABCTest\\ABCTask\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

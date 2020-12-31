@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xdyMcOP/z0MZPpnH5XuRNqy6ryV18LLSGHYCYdi6+JD227HXxxkCg2lYQvbv8eULr9QGFuOTf6LU1Oy0FhBaWw==",
+  "dgSpecHash": "SuP1fTQjsoMAfmFXEJNVdjkiLhTQQlti+awWMH9DtQcLRT5bkdc12jA9tpuVAawkrY5O29+Nb5Pw/lKw+cR1xA==",
   "success": true,
-  "projectFilePath": "E:\\ABCTest\\abctask\\ABCTask.csproj",
+  "projectFilePath": "E:\\ABCTest\\ABCTask\\ABCTask.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ideal\\.nuget\\packages\\automapper\\10.1.0\\automapper.10.1.0.nupkg.sha512",
     "C:\\Users\\Ideal\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.0\\automapper.extensions.microsoft.dependencyinjection.8.1.0.nupkg.sha512",

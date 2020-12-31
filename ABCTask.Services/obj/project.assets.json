@@ -1888,7 +1888,10 @@
         },
         "runtime": {
           "bin/placeholder/ABCTask.Core.dll": {}
-        }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       },
       "ABCTask.Data/1.0.0": {
         "type": "project",
@@ -1909,7 +1912,10 @@
         },
         "runtime": {
           "bin/placeholder/ABCTask.Data.dll": {}
-        }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       },
       "ABCTask.DTO/1.0.0": {
         "type": "project",
@@ -1927,7 +1933,10 @@
         },
         "runtime": {
           "bin/placeholder/ABCTask.DTO.dll": {}
-        }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       }
     }
   },
@@ -6572,6 +6581,9 @@
         "assetTargetFallback": true,
         "warn": true,
         "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
