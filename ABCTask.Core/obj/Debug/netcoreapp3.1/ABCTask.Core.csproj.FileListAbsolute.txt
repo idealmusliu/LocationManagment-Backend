@@ -1,0 +1,17 @@
+E:\ABCTask.Core\bin\Debug\netcoreapp3.1\ABCTask.Core.deps.json
+E:\ABCTask.Core\bin\Debug\netcoreapp3.1\ABCTask.Core.dll
+E:\ABCTask.Core\bin\Debug\netcoreapp3.1\ABCTask.Core.pdb
+E:\ABCTask.Core\obj\Debug\netcoreapp3.1\ABCTask.Core.AssemblyInfoInputs.cache
+E:\ABCTask.Core\obj\Debug\netcoreapp3.1\ABCTask.Core.AssemblyInfo.cs
+E:\ABCTask.Core\obj\Debug\netcoreapp3.1\ABCTask.Core.csproj.CoreCompileInputs.cache
+E:\ABCTask.Core\obj\Debug\netcoreapp3.1\ABCTask.Core.dll
+E:\ABCTask.Core\obj\Debug\netcoreapp3.1\ABCTask.Core.pdb
+E:\ABCTest\ABCTask.Core\bin\Debug\netcoreapp3.1\ABCTask.Core.deps.json
+E:\ABCTest\ABCTask.Core\bin\Debug\netcoreapp3.1\ABCTask.Core.dll
+E:\ABCTest\ABCTask.Core\bin\Debug\netcoreapp3.1\ABCTask.Core.pdb
+E:\ABCTest\ABCTask.Core\obj\Debug\netcoreapp3.1\ABCTask.Core.csprojAssemblyReference.cache
+E:\ABCTest\ABCTask.Core\obj\Debug\netcoreapp3.1\ABCTask.Core.AssemblyInfoInputs.cache
+E:\ABCTest\ABCTask.Core\obj\Debug\netcoreapp3.1\ABCTask.Core.AssemblyInfo.cs
+E:\ABCTest\ABCTask.Core\obj\Debug\netcoreapp3.1\ABCTask.Core.csproj.CoreCompileInputs.cache
+E:\ABCTest\ABCTask.Core\obj\Debug\netcoreapp3.1\ABCTask.Core.dll
+E:\ABCTest\ABCTask.Core\obj\Debug\netcoreapp3.1\ABCTask.Core.pdb
